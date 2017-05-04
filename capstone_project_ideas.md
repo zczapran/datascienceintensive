@@ -7,10 +7,10 @@ Using P2P lending platform (Lending Club, Funding Circle, Zopa) historical data 
 (http://www.altfi.com/data/loanbooks)
 
 Platforms with high quality (sufficient number of features and loans) loan books:
-* Bondora
-* Lending Club
-* Finbee
-* Bitbond (somehow ok)
+* Bondora (112 features, 35k entries)
+* Lending Club (122 features, >1m entries)
+* Finbee (39 features, 4k entries)
+* Bitbond (~10 features, 4k entries)
 
 Bankruptcy Prediction
 ---------------------
