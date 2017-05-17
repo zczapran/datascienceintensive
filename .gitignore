@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 # Project
-data
+capstone/data
