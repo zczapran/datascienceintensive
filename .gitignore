@@ -90,3 +90,6 @@ ENV/
 
 # Project
 capstone/data
+CompStats/
+data_wrangling_xml/
+
