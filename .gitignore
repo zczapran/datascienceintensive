@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 
 # C extensions
 *.so
@@ -90,6 +91,7 @@ ENV/
 
 # Project
 capstone/data
+*/data
 CompStats/
 data_wrangling_xml/
 
